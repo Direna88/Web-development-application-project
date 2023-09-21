@@ -581,6 +581,8 @@ form button:hover {
     background-color: #265df2;
 }
 
+/*Items available for order*/
+
 .order__item {
     margin: 25px;
 }
@@ -624,6 +626,7 @@ form button:hover {
     color: #333;
 }
 
+/*Shopping Cart*/
 .cart__column {
     border-bottom: 1px solid black;
     margin-right: 1.5em;
